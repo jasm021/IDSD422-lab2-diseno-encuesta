@@ -5,7 +5,7 @@
 **Empresa:** RetailAndina S.A.  
 **Equipo:** 3  
 **Integrantes:**
-- Jhon Solorzano
+- Jhon Solórzano
 - Said Bravo
 - David Jácome
 - Deysi Guachamin
